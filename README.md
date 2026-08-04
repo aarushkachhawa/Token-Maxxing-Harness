@@ -1,4 +1,4 @@
-# Token-Maxxing-Harness
+# Token-MinMaxxing-Harness
 Agentic coding harness that min-maxes token spend with a custom model router.
 
 ## Architecture
